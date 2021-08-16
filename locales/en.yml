@@ -1,0 +1,13 @@
+button:
+  about: About
+  back: Back
+  go: GO
+  home: Home
+  toggle_dark: Toggle dark mode
+  toggle_langs: Change languages
+intro:
+  desc: HTTP STATUS CODE for LOVE
+  dynamic-route: I love you.
+  hi: Hi, {name}!
+  whats-your-name: What's your name?
+not-found: Not found

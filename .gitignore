@@ -1,0 +1,16 @@
+.DS_Store
+.vite-ssg-dist
+.vite-ssg-temp
+*.local
+dist
+dist-ssr
+node_modules
+# intellij stuff
+.idea/
+# logs
+*.log
+
+# lock
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
